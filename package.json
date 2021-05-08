@@ -1,6 +1,6 @@
 {
-  "homepage": "https://saranya-code.github.io/employee_directory_react",
-  "name": "employee_directory_react",
+  "homepage": "https://saranya-code.github.io/employee_react/",
+  "name": "employee_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
