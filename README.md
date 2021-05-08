@@ -8,9 +8,15 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 create a react app using
 
- * npx create-react-app <your react app name>
+`npx create-react-app <your react app name>`
 
-npm start
+`cd <your app name>`
+
+`npm start`
+
+Steps to install the dependencies
+
+`npm i`
 
 ## Dependencies
 
@@ -29,7 +35,7 @@ After cloning the repo, install the required npm packages, use the command line 
 
 ## Resource links
 
-Deployed URL : https://saranya-code.github.io/employee_directory_react/
+Deployed URL : https://saranya-code.github.io/employee_react/
 
 
 
